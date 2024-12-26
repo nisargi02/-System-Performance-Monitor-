@@ -1,5 +1,5 @@
-Name of Group Members:
+System Performance Monitor:
 
-Bhavini Piyush Mamtora	36205716	
-Nisargi Vipulbhai Shah	69087544	
-Hrushikesh Pandurang Kulkarni	18288088
+Created a real-time system monitoring tool similar to the Unix top command that
+provides different performance statistics in two different categories (e.g., CPU,
+memory, network, I/O).
